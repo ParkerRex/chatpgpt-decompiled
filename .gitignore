@@ -1,0 +1,4 @@
+# Reverse engineering artifacts
+*.apk
+*_apktool/
+*_jadx/
