@@ -1,3 +1,8 @@
+Project name: ChatGPT APK - Decompiled Repo
+One liner: A consolidated reverse-engineering workspace for the ChatGPT Android APK with decompiled code, resources, and curated analysis docs.
+Stack: Android APK decompilation tooling (JADX, APKTool), Java/Kotlin decompiled sources, Smali, Android resources/XML, Markdown documentation, TypeScript helper script.
+Problem: Make a decompiled Android app practical to inspect by organizing raw reverse-engineering outputs and adding navigable, review-focused documentation.
+
 # ChatGPT APK - Decompiled Repo
 
 This repo is a consolidated view of the decompiled ChatGPT Android app plus a curated documentation set.
